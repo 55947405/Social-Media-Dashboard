@@ -1,0 +1,30 @@
+.body{
+    background-color: bisque;
+}
+.heading{
+    margin-top: 100px;
+}
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(225, 237, 195);
+    font-size: 150%;
+    border: solid black;
+}
+#checkbox{
+    display: flex;
+    flex-direction: row;}
+button{
+    margin: 10px;
+    margin-left: 22px;
+    background-color: rgb(52, 245, 52);
+}
+input{
+    margin: 10px;
+    width: 30px;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color:rgb(37, 70, 4);
+}

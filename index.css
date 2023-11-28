@@ -1,0 +1,213 @@
+.logo_main{
+    width: 60px;
+    margin-left: 15px;
+    background-color: white;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    padding-left: 850px;
+    margin-top: 25px;
+    font-size: 120%;
+    font-weight: 800;
+    background-color: black;
+}
+.head{
+    display: flex;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+}
+.n1:hover,.n2:hover,.n3:hover,.n4:hover{
+    color: red;
+    cursor: pointer;
+}
+.plan{
+    text-decoration: none;
+    color: white;
+}
+.plan:hover{
+    color: red;
+    cursor: pointer;
+}
+.box{
+    color: #f44336;
+}
+#sun-pic{
+    width: 23px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+#sun-pic:hover{
+    cursor: pointer;
+}
+#moon-pic{
+    width: 25px;
+    height: 28px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    display: none;
+}
+#moon-pic:hover{
+    cursor: pointer;
+}
+.body-light{
+    background-color: rgb(34, 31, 31);
+}
+.Social{
+    display: flex;
+    /* background-color: brown; */
+    gap: 600px;
+    margin-left: 300px;
+    color: gray;
+}
+.heading{
+    /* font-family: cursive; */
+    font-weight: 600;
+    font-size: 80px;
+    height: 40px;
+    padding-bottom: 40px;
+}
+.main{
+    background-image: url(social-media-background-network-concept-vector-16150556.jpg);
+    background-size: cover;
+    margin-top: 0px;
+    height: 560px;
+    border-radius: 20px;
+    /* display: inline-block; */
+}
+.para{
+    font-size: 40px;
+    z-index: 1;
+    color: black;
+}
+.button{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 630px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.button:hover{
+    border: 1px solid #f44336;
+    background: #f44336;
+    transition: 1s;
+}
+.member{
+    text-decoration: none;
+}
+.flexcontainer{
+    margin-top: 50px;
+    display: flex;
+    padding-left: 120px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    gap: 70px;
+}
+.flexbox{
+    background-color: black;
+    width: 200px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-left: 50px;
+    color: white;
+
+}
+.flexall{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.numbers{
+    font-size: 40px;
+    color: green;
+}
+.numbers1{
+    font-size: 40px;
+    color: #f44336;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 20px;
+}
+.logo_name{
+    color: white;
+    font-size: larger;
+    margin-left: 15px;
+    /* display: flex; */
+    height: fit-content;
+}
+.graph{
+    display: flex;
+}
+.graph1{
+    width: 400px;
+    height: 300px;
+    padding-left: 115px;
+    margin-left: 110px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.footer1{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.foot1, .foot2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#email{
+    border-radius: 20px;
+    width: 200px;
+    height: 32px;
+    padding-left: 5px;
+}
+
+.submit{
+    background-color: rgb(219, 55, 101);
+    padding: 5px 5px 5px 5px;
+    width: 80px;
+    border-radius: 50px;
+}
+.submit{
+    cursor: pointer;
+    border: 1px solid #f44336;
+    background: #f44336;
+}
+.footer2{
+    background-color: black;
+    color: white;
+}
+
+.foot3{
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.foot3 li {
+    display: inline;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+#copy{
+    padding-left: 600px;
+    height: 30px;
+    padding-top: 7px;
+    background-color: black;
+}
+
